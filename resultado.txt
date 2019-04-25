@@ -1,0 +1,327 @@
+
+14 linha: 129 
+acabar linha: 109 
+acabo linha: 131 
+acabou linha: 60 
+acertou linha: 141 
+acontece linha: 106 
+acreditou linha: 165 
+agora linha: 70 
+ai linha: 58 
+ajudar linha: 52 169 
+alimentar linha: 50 
+alta linha: 83 164 
+amanha linha: 128 
+amar linha: 80 
+amor linha: 133 
+antes linha: 92 
+ao linha: 129 
+apareceu linha: 107 
+apertar linha: 119 
+aplaudir linha: 143 
+aprendiz linha: 39 
+aquela linha: 133 
+aqui linha: 32 149 
+arma linha: 112 153 
+armas linha: 130 
+arrependeu linha: 75 160 
+asa linha: 61 
+ascendente linha: 91 
+assistir linha: 139 
+atirar linha: 111 
+atirava linha: 140 
+atiro linha: 155 
+atras linha: 89 
+bagulho linha: 58 
+banca linha: 86 
+bandeirinhas linha: 143 
+bastardo linha: 44 
+bebedeira linha: 100 
+bisavo linha: 44 
+bolivia linha: 45 104 
+bom linha: 58 
+bomba linha: 86 
+boto linha: 86 
+boyzinho linha: 64 
+brigar linha: 113 
+brinques linha: 91 
+burguesia linha: 164 
+ca linha: 156 
+cafezinho linha: 25 
+cameras linha: 144 
+cao linha: 97 
+capitao linha: 73 
+casa linha: 90 118 122 
+casou linha: 124 
+cegou linha: 150 
+ceilandia linha: 128 
+cem linha: 40 
+central linha: 34 
+certo linha: 98 
+chamou linha: 127 
+chorou linha: 122 
+cinco linha: 159 
+circo linha: 149 
+coisa linha: 154 
+colegio linha: 87 
+colocavam linha: 10 
+comecar linha: 48 56 
+comecasse linha: 113 
+comecou linha: 65 119 141 
+como linha: 21 54 97 
+comprou linha: 24 
+conheceu linha: 74 
+conseguiu linha: 166 
+contrabando linha: 104 
+conversa linha: 53 
+coracao linha: 77 96 
+corpo linha: 68 
+costas linha: 140 155 
+crente linha: 117 
+crianca linha: 5 87 146 
+crucificado linha: 56 
+cu linha: 89 
+dali linha: 60 
+danca linha: 148 
+dancar linha: 115 
+dancou linha: 66 
+dava linha: 50 
+decidiu linha: 54 109 112 148 
+declarava linha: 162 
+dele linha: 77 
+demora linha: 139 
+dentro linha: 126 
+depois linha: 112 160 
+descobriu linha: 101 
+desvirginava linha: 116 
+deus linha: 37 
+dez linha: 88 
+diabo linha: 167 
+diante linha: 20 
+diferente linha: 11 
+direto linha: 24 
+disse linha: 92 
+diz linha: 85 
+dizendo linha: 137 
+dizia linha: 29 47 52 78 117 
+do linha: 10 44 68 85 136 
+dos linha: 64 108 
+duas linha: 128 138 
+duelo linha: 127 136 
+ela linha: 77 152 
+elaborou linha: 55 
+eles linha: 165 
+embebedou linha: 100 
+embora linha: 120 
+entao linha: 122 127 138 151 
+entrar linha: 96 148 
+entrou linha: 34 
+escola linha: 8 
+escolha linha: 16 
+escolher linha: 130 
+escorpiao linha: 91 
+essa linha: 169 
+estava linha: 98 
+estrelas linha: 88 
+estupro linha: 68 
+faco linha: 87 
+falou linha: 102 
+falsa linha: 133 
+faz linha: 84 169 
+fazer linha: 134 
+federal linha: 71 
+festa linha: 62 
+fica linha: 89 
+fico linha: 32 
+filha linha: 31 156 
+filho linha: 81 125 
+filmava linha: 145 
+frente linha: 129 
+frequentava linha: 61 
+futuro linha: 99 
+garganta linha: 142 
+general linha: 73 88 
+gente linha: 43 121 145 169 
+historia linha: 165 
+homem linha: 140 154 
+hora linha: 137 
+horas linha: 51 128 138 
+igreja linha: 9 
+incerto linha: 99 
+indecorosa linha: 84 
+inferno linha: 67 123 
+inocentes linha: 116 
+irmao linha: 93 94 95 
+isso linha: 87 
+jeremias linha: 106 113 114 124 127 154 
+jesus linha: 4 
+jornal linha: 86 
+junto linha: 161 
+jurei linha: 133 
+lembrou linha: 146 
+libertar linha: 62 
+local linha: 137 
+lote linha: 129 
+lucia linha: 76 80 120 124 132 151 160 
+luzes linha: 36 
+ma linha: 64 
+maconheiro linha: 114 
+madeira linha: 39 
+maluco linha: 57 
+mao linha: 83 89 
+mar linha: 13 
+maria linha: 76 80 120 124 132 151 160 
+mato linha: 132 
+me linha: 120 
+medico linha: 18 
+meio linha: 100 
+menina linha: 74 76 133 
+mes linha: 40 
+mesa linha: 89 
+meu linha: 32 37 93 94 95 133 157 
+mil linha: 40 
+ministro linha: 52 
+mocinhas linha: 116 
+morrer linha: 163 
+morte linha: 49 
+muitas linha: 46 
+muito linha: 118 
+mundo linha: 115 
+na linha: 8 10 14 41 45 82 83 89 128 136 142 165 165 
+naquela linha: 148 
+negocio linha: 48 
+nela linha: 125 
+nem linha: 87 
+nenhum linha: 72 
+neto linha: 44 
+nisso linha: 150 
+nome linha: 47 
+norte linha: 61 
+noticia linha: 136 
+novidade linha: 57 
+nunca linha: 91 
+odio linha: 4 20 92 126 
+olha linha: 156 
+olhada linha: 157 
+olhos linha: 150 
+olhou linha: 143 144 
+onibus linha: 34 
+organizou linha: 115 
+ou linha: 73 73 
+outro linha: 101 
+ouvia linha: 51 
+pablo linha: 47 54 102 104 110 153 
+pais linha: 30 
+palavras linha: 96 
+parceiro linha: 102 
+passa linha: 82 
+pecados linha: 75 
+peixes linha: 91 
+pelas linha: 140 155 
+perdao linha: 157 
+perder linha: 27 
+peruano linha: 45 
+planaltina linha: 105 
+plano linha: 55 
+planos linha: 108 
+playboy linha: 73 
+pode linha: 130 
+policia linha: 72 
+porco linha: 131 
+porque linha: 163 
+povo linha: 139 143 162 
+pras linha: 143 144 
+presidente linha: 168 
+primeira linha: 67 
+primo linha: 153 
+pro linha: 19 67 123 143 144 168 
+prometeu linha: 77 
+proposta linha: 33 84 
+protejo linha: 88 
+protetor linha: 161 
+puta linha: 156 
+quando linha: 2 5 6 74 135 146 167 
+quem linha: 26 133 
+quero linha: 81 
+rapaz linha: 42 
+razao linha: 137 
+reconheceu linha: 151 
+renome linha: 107 
+reporter linha: 135 
+revendia linha: 105 
+rezar linha: 117 
+rock linha: 62 
+rockonha linha: 115 
+rodoviaria linha: 36 
+roubo linha: 66 
+sabado linha: 138 
+sabia linha: 111 117 134 163 
+saindo linha: 36 
+salvador linha: 24 
+salvar linha: 28 
+sangue linha: 4 142 157 
+saudade linha: 119 
+segunda linha: 123 
+sem-vergonha linha: 114 
+senhor linha: 83 90 
+sentindo linha: 142 
+ser linha: 5 56 79 
+sete linha: 51 
+seus linha: 75 150 
+sexta-feira linha: 41 
+sob linha: 64 
+sofrer linha: 97 170 
+sol linha: 150 
+solidao linha: 16 
+sorrir linha: 141 
+sorveteiro linha: 144 
+sou linha: 154 
+souberam linha: 57 
+suas linha: 130 
+ta linha: 121 
+taguatinga linha: 40 
+tambem linha: 103 132 
+te linha: 80 
+tem linha: 58 
+temido linha: 71 
+tempo linha: 82 121 
+ter linha: 81 167 
+teu linha: 157 
+tiro linha: 6 
+tiros linha: 159 
+toda linha: 169 
+todas linha: 17 
+todo linha: 3 42 115 139 
+tomar linha: 25 
+trabalhador linha: 42 
+trabalhando linha: 101 
+trabalhava linha: 49 
+traficante linha: 73 107 
+traidor linha: 131 159 
+trazia linha: 46 104 152 
+trouxe linha: 110 
+tudo linha: 145 147 
+tv linha: 136 145 165 
+uma linha: 24 27 55 64 74 76 84 85 85 110 146 157 
+usar linha: 112 
+vao linha: 69 96 
+veio linha: 167 
+velho linha: 92 
+vem linha: 82 157 
+vergonha linha: 156 
+vez linha: 55 67 123 148 
+via-crucis linha: 149 
+viagem linha: 27 
+vida linha: 21 93 94 95 
+violencia linha: 68 
+viram linha: 165 
+virou linha: 149 
+viu linha: 36 135 
+vivera linha: 147 
+vivia linha: 45 
+voces linha: 69 69 
+voltou linha: 79 
+winchester-22 linha: 110 152 158 
+zona linha: 41 
+
+O tempo total da execucao foi : 0 segundos
